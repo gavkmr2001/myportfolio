@@ -73,6 +73,10 @@ h4{
 @media screen and (min-width: 601px) {
 	marquee {
 	  font-size: 10vh;
+	} 
+
+	h4{
+		font-size: 5vh;
 	}
   }
   
@@ -80,6 +84,9 @@ h4{
   @media screen and (max-width: 600px) {
 	marquee {
 	  font-size: 4vh;
+	}
+	h4{
+		font-size: 2vh;
 	}
   }
 
