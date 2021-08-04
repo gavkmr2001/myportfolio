@@ -79,7 +79,7 @@ h4{
   /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
   @media screen and (max-width: 600px) {
 	marquee {
-	  font-size: 6vh;
+	  font-size: 4vh;
 	}
   }
 
@@ -87,7 +87,7 @@ h4{
 h1, marquee{
 	margin-top: 30px;
 	font-family: 'Bodoni Moda', serif;
-	font-size: 600;
+/* 	font-size: 600; */
 	color: white;
 
 }
