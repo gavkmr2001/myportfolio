@@ -58,3 +58,16 @@ h1{
 	/*float: left;*/
 }
 
+h1, marquee{
+	margin-top: 30px;
+	font-family: 'Bodoni Moda', serif;
+	font-size: 600;
+	color: white;
+
+}
+
+h4, marquee{
+	font-family: 'Cairo', sans-serif;
+	color: white;
+}
+
